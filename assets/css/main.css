@@ -746,7 +746,7 @@ img {
 }
 
 .top-nav-collapse .navbar-nav li.active a.nav-link {
-  color: #00578b !important;
+  /* color: #00578b !important; */
   border-color: #00578b;
 }
 
