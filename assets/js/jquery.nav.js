@@ -105,6 +105,9 @@
 		},
 
 		getHash: function($link) {
+                        if ($link.attr('href') == undefined){
+                           return undefined
+                        }
 			return $link.attr('href').split('#')[1];
 		},
 
@@ -199,8 +202,12 @@
 		},
 
 		scrollTo: function(target, callback) {
-			var offset = $(target).offset().top;
-
+                        if (target == "#"){
+                          var offset = 0;
+                        }
+                        else{
+			  var offset = $(target).offset().top;
+                        }
 			$('html, body').animate({
 				scrollTop: offset
 			}, this.config.scrollSpeed, this.config.easing, callback);
