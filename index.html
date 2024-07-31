@@ -1,248 +1,28 @@
- <!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <title>RILDS</title>
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" >
-    <!-- Icon -->
-    <link rel="stylesheet" href="assets/fonts/line-icons.css">
-    <!-- Owl carousel -->
-    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="assets/css/owl.theme.css">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shiny App</title>
+    <script
+      src="./shinylive/load-shinylive-sw.js"
+      type="module"
+    ></script>
+    <script type="module">
+      import { runExportedApp } from "./shinylive/shinylive.js";
+      runExportedApp({
+        id: "root",
+        appEngine: "r",
+        relPath: "",
+      });
+    </script>
+    <link rel="stylesheet" href="./shinylive/style-resets.css" />
+    <link rel="stylesheet" href="./shinylive/shinylive.css" />
     
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/nivo-lightbox.css">
-    <!-- Animate -->
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <!-- Main Style -->
-    <link rel="stylesheet" href="assets/css/main.css">
-    <!-- Responsive Style -->
-    <link rel="stylesheet" href="assets/css/responsive.css">
-    <style>
-    a {
-       color: #585b60;
-    }
-.services-item {
-    padding: 20px;
-    border-radius: 4px;
-    text-align: left;
-}
-    </style>
-
   </head>
   <body>
-
-    <!-- Header Area wrapper Starts -->
-    <header id="header-wrap">
-      <!-- Navbar Start -->
-      <nav class="navbar navbar-expand-md bg-inverse fixed-top scrolling-navbar">
-        <div class="container">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <!--<a href="https://rilds.org/" class="navbar-brand"><img src="assets/img/HorizontalLogo_1_Gradient.png"style="width:110px;height:26px;"></a>-->       
-          <a href="https://rilds.org/" class="navbar-brand"><img src="assets/img/HorizontalLogo_1_Gradient.svg"style="width:150px;height:75px;"></a> 
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-            <i class="lni-menu"></i>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav mr-auto w-100 justify-content-end clearfix">
-              <li class="nav-item dropdown">
-		<a class="nav-link dropbtn" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-		  Menu
-		</a>
-		<div class="dropdown-content" aria-labelledby="navbarDropdown">
-		  <a class="dropdown-item" href="https://rilds.org/">Homepage</a>
-		  <a class="dropdown-item" href="index.html">Reports</a>
-	      </li>
-            </ul>
-          </div>
-        </div>
-      </nav>
-      <!-- Navbar End -->
-
-      <!-- Hero Area Start -->
-
-<!--      <div id="home">
-      <div class="about-area section-padding bg-gray">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 col-md-12 col-xs-12 info">
-            <div class="about-wrapper wow fadeInLeft animated animated" data-wow-delay="0.3s" style="visibility: visible;-webkit-animation-delay: 0.3s; -moz-animation-delay: 0.3s; animation-delay: 0.3s;">
-              <div>
-                <div class="site-heading">
-                  <h2 class="section-title">RILDS' Reports</h2>
-                </div>
-                <div class="content">
-                  <p>A collection of data stories and reports produced by the RILDS team.</a></p>
-                  <p>Select a data story below to learn more.</a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 col-md-12 col-xs-12 wow fadeInRight animated animated" data-wow-delay="0.3s" style="visibility: visible;-webkit-animation-delay: 0.3s; -moz-animation-delay: 0.3s; animation-delay: 0.3s;">
-            <img class="img-fluid" src="assets/img/\Hero_RILDSCenter.png" alt="">
-          </div>
-        </div>
-      </div>
-      </div>
-      </div>-->
     
-
-
-      <!-- Hero Area End -->
-
-    </header>
-
-
-</br>
-</br>
-</br>
-
-<!-- body Start -->
-
-<div class="about-area section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-xs-12 wow fadeInRight animated animated">
-                    <div class="image">
-                        <img src="assets/img/project/americorpsri.jpg" alt="digital">
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-12 col-xs-12 wow fadeInRight animated animated">
-                    <div>
-                        <h2><a href="ServeRI_Report.html">Impact of AmeriCorps on RI Communities</a></h2>
-                        <p>AmeriCorps offers pathways to success for both service recipients and service volunteers in Rhode Island. Working mainly in economically disadvantaged urban neighborhoods, AmeriCorps members provide vital services for those in need. AmeriCorps members who come from these same neighborhoods gain education and employment opportunities they may not otherwise have had.</p>
-                        <div class="author">
-                            <span><a href="#">Sources: RIOPC, RI DLT, RIDE, RI OPC, NSC</a></span>
-                            <span class="float-right">June 2024</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </br>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-xs-12 wow fadeInRight animated animated">
-                    <div class="image">
-                        <img src="assets/img/project/fostercare.png" alt="digital">
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-12 col-xs-12 wow fadeInRight animated animated">
-                    <div>
-                        <h2><a href="FosterCareOutomces.html">Educational Outcomes of Rhode Island Youth Involved with Foster Care</a></h2>
-                        <p>In the complex landscape of educational and professional journeys, youth involved in foster care navigate unique challenges that often influence their postsecondary and workforce outcomes. This report explores postsecondary enrollment, persistence, and completion as well as the subsequent employment patterns for Rhode Island youth involved with foster care.</p>
-                        <div class="author">
-                            <span><a href="#">Sources: RIOPC, RI DLT, RIDE, RI OPC, NSC</a></span>
-                            <span class="float-right">April 2024</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-</div>
-
-
-<!-- body end -->
-
-    <!-- Footer Section Start -->
-    <footer id="footer" class="footer-area section-padding">
-      <div class="container">
-        <div class="container">
-
-          <div class="row">
-            <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
-              <div class="widget">
-                <h3 class="footer-logo" style="color: #00578b;">RILDS</h3>
-                <div class="textwidget">
-                  <p>We connect data from early childhood, through K-12 and higher education, and into the workforce. We exist to inform policy and facilitate research that improves the well-being of all Rhode Islanders.</p>
-                </div>
-                <div class="social-icon">
-                  <a class="facebook" href="#"><i class="lni-facebook-filled"></i></a>
-                  <a class="twitter" href="#"><i class="lni-twitter-filled"></i></a>
-                  <a class="instagram" href="#"><i class="lni-instagram-filled"></i></a>
-                  <a class="linkedin" href="#"><i class="lni-linkedin-filled"></i></a>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
-              <!--<h3 class="footer-titel">Products</h3>
-              <ul class="footer-link">
-                <li><a href="#">Tracking</a></li>
-                <li><a href="#">Application</a></li>
-                <li><a href="#">Resource Planning</a></li>
-                <li><a href="#">Enterprise</a></li>           
-                <li><a href="#">Employee Management</a></li>           
-              </ul>-->
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
-              <!--<h3 class="footer-titel">Resources</h3>
-              <ul class="footer-link">
-                <li><a href="#">Payment Options</a></li>
-                <li><a href="#">Fee Schedule</a></li>
-                <li><a href="#">Getting Started</a></li>
-                <li><a href="#">Identity Verification</a></li>
-                <li><a href="#">Card Verification</a></li>
-              </ul>-->
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
-              <h3 class="footer-titel">Contact</h3>
-              <ul class="address">
-                <li>
-                  <a href="#"><i class="lni-map-marker"></i> 80 Washington St <br> Providence, RI 02903</a>
-                </li>
-                <li>
-                  <a href="#"><i class="lni-phone-handset"></i> P: (401) 874-4634</a>
-                </li>
-                <li>
-                  <a href="#"><i class="lni-envelope"></i> E: rilds@riopc.edu</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>  
-      </div> 
-      <div id="copyright">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12">
-              <div class="copyright-content">
-                <p>© 2024 RILDS</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>   
-    </footer> 
-    <!-- Footer Section End -->
-
-    <!-- Go to Top Link -->
-    <a href="#" class="back-to-top">
-    	<i class="lni-arrow-up"></i>
-    </a>
+    <div style="height: 100vh; width: 100vw" id="root"></div>
     
-    <!-- Preloader -->
-    <div id="preloader">
-      <div class="loader" id="loader-1"></div>
-    </div>
-    <!-- End Preloader -->
-    
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="assets/js/jquery-min.js"></script>
-    <script src="assets/js/popper.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/wow.js"></script>
-    <script src="assets/js/jquery.nav.js"></script>
-    <script src="assets/js/scrolling-nav.js"></script>
-    <script src="assets/js/jquery.easing.min.js"></script>
-    <script src="assets/js/jquery.counterup.min.js"></script>      
-    <script src="assets/js/waypoints.min.js"></script>   
-    <script src="assets/js/main.js"></script>
-      
   </body>
 </html>
