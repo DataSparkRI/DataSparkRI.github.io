@@ -1,0 +1,19 @@
+
+<style>
+p.comment {
+background-color: #DBDBDB;
+padding: 10px;
+border: 1px solid black;
+margin-left: 20%;
+margin-right: 20%;
+border-radius: 5px;
+font-size: 15px;
+}
+</style>
+<p class="comment">
+The intent of the Equity & Opportunity Indexes is to enable, first and foremost, school leaders but also state policymakers to understand and to reduce disparities in student resources, opportunities, and outcomes. These four indexes (shown below) explore challenges from both inside (e.g., chronic attendance, participation in advanced coursework) and outside of the classroom (e.g., elevated blood lead levels, access to green space) which play out in school settings.<br><br>
+The four indexes contain multiple indicators aligned to <a href="https://ride.ri.gov/information-accountability/accountability/basic-education-program">Rhode Island’s Basic Education Program</a>, modeled after the National Academies of Sciences, Engineering, and Medicine’s <a href="https://www.nationalacademies.org/our-work/guidebook-on-developing-indicators-of-educational-equity">Building Educational Equity Indicator Systems</a> Guidebook, and based a literature review, stakeholder interviews, and data available in the RILDS. Each index is color-coded (Conditions is blue, Resources is orange, etc.) and is a composite of indicators. These indicators are composites of measures. All measures are normalized (0-100 scale) by school year and grade level configuration.<br><br>
+The Equity & Opportunity Indexes are a collaborative effort between the Rhode Island Longitudinal Data System (RILDS, formerly known as DataSpark) and the Rhode Island Department of Education (RIDE).<br></p>
+
+
+

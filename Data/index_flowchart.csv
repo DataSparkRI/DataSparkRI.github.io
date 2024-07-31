@@ -1,0 +1,121 @@
+Individual-Level Measures,School-Level Measures,Indicator,Index
+Census Poverty,Percent of population under income to poverty ratio of 1.0,Community and Environmental Health,Conditions
+Census Unemployment,Percent of population unemployed,Community and Environmental Health,Conditions
+Census Internet Access,Percent of households with an internet subscription,Community and Environmental Health,Conditions
+Census Computer Access,Percent of households with computer access,Community and Environmental Health,Conditions
+Census 1 or 0  Vehicle,Percent of households with one or no vehicles,Community and Environmental Health,Conditions
+Census Pre-K,"Percent of population, ages 3 and 4 years old, that attend pre-K",Community and Environmental Health,Conditions
+Census Bachelor's Degree over 25,"Percent of population, age 25 and older, with a Bachelor's degree or higher",Community and Environmental Health,Conditions
+Census Single-Parent Household,Percent of households that are single parent households,Community and Environmental Health,Conditions
+Tree Canopy Coverage,Percent of tree canopy coverage,Community and Environmental Health,Conditions
+Food Desert,Percent of population with limited food access,Community and Environmental Health,Conditions
+School enrollment,Total school enrollment,Student Instructional Support Needs,Conditions
+FRPL binary,Percent of students receiving free or reduced-priced lunch,Student Instructional Support Needs,Conditions
+ELL binary,Percent of students who are multi-lingual learners,Student Instructional Support Needs,Conditions
+IEP binary,Percent of students with disabilities,Student Instructional Support Needs,Conditions
+Mobility Rate,School's mobility rate,Student Instructional Support Needs,Conditions
+Mobility ,Percent of students attending two or more schools per year,Student Instructional Support Needs,Conditions
+Retention,Percent of students retained from the previous school year,Student Instructional Support Needs,Conditions
+Previous School Math test score,Percent of students proficient in math in the previous grade level configuration,Student Instructional Support Needs,Conditions
+Previous School ELA test score,Percent of students proficient in ela in the previous grade level configuration,Student Instructional Support Needs,Conditions
+Newborn Risk Factors,Percent of students born with risk factors for special education needs,Health & Human Service Needs,Conditions
+Child Immunization,Percent of students who received childhood immunizations,Health & Human Service Needs,Conditions
+Vision Testing,Percent of students who received vision screneeings,Health & Human Service Needs,Conditions
+Auditory Testing,Percent of students who received hearing screenings,Health & Human Service Needs,Conditions
+Homelessness,Percent of students experiencing homlessness,Health & Human Service Needs,Conditions
+Foster Care,Percent of students involved with foster care,Health & Human Service Needs,Conditions
+Lead Screening,Percent of students who received blood lead screenings,Health & Human Service Needs,Conditions
+Lead Poisoning,Percent of students with elevated blood lead levels,Health & Human Service Needs,Conditions
+Absense,Average number of days that students are absent,Engagement in Schooling,Experiences
+Chronic Absense,Percent of students who are chronically absent,Engagement in Schooling,Experiences
+Partial Attendance,Average percent of days that students are tardy or dismissed early,Engagement in Schooling,Experiences
+Unexcused Absence,Percent of students with unexcused absenses,Engagement in Schooling,Experiences
+Disaffection Suspensions,Percent of students who are suspended for disaffection-related infractions,Engagement in Schooling,Experiences
+Suspension 10+ Days,Percent of student who are suspended for ten or more days,Engagement in Schooling,Experiences
+Teacher Caring,"Percent of student responding positively to 'When your teachers ask, 'How are you?', how often do you feel that your teachers really want to know your answer?'",Engagement in Schooling,Experiences
+Stress Interference,"Percent of student responding positively to 'How much has stress interfered with your ability to participate in school in the last 30 days?'",Engagement in Schooling,Experiences
+Class Preparation,"Percent of student responding positively to 'How often do you come prepared to class?'",Engagement in Schooling,Experiences
+Staying Calm,"Percent of student responding positively to 'How often do you remain calm, even if someone is bothering you or saying something bad?'",Engagement in Schooling,Experiences
+Adult Connection,"Percent of student responding positively to 'How connected do you feel to the adults at your school?'",Engagement in Schooling,Experiences
+School Belonging,"Percent of student responding positively to 'Overall, how much do you feel like you belong at your school?'",Engagement in Schooling,Experiences
+Teacher to Talk to,"Percent of student responding positively to 'Is there at least one teacher or other adult that you can talk to if you have a problem?'",Engagement in Schooling,Experiences
+Adult to Talk to,"Percent of student responding positively to 'Is there an adult you can talk to outside of school when you have a problem?'",Engagement in Schooling,Experiences
+Attendance Importance,"Percent of student responding positively to 'How much do you think missing at least 2 days of school a month can hurt your grades/impacts a student's chance of graduating high school?'",Engagement in Schooling,Experiences
+,"Percent of students responding positively to 'How positive or negative is the energy of the school?'",School Climate,Experiences
+,"Percent of students responding positively to 'How fair or unfair are the rules for the students at this school?'",School Climate,Experiences
+,"Percent of students responding positively to 'At your school, how much does the behavior of other students hurt or help your learning?'",School Climate,Experiences
+,"Percent of students responding positively to 'How often do your teachers seem excited to be teaching your classes?'",School Climate,Experiences
+,"Percent of students responding positively to 'How pleasant or unpleasent is the physical space at your school?'",School Climate,Experiences
+,"Percent of teachers responding positively to 'On most days, how enthusiastic are the students about being at school?'",School Climate,Experiences
+,"Percent of teachers responding positively to 'When new initiatives to improve teaching are presented at your school, how supportive are your colleagues?'",School Climate,Experiences
+,"Percent of teachers responding positively to 'How optimistic are you that your school will improve in the future?'",School Climate,Experiences
+,"Percent of teachers responding positively to 'How supportive are students in their interactions with each other?'",School Climate,Experiences
+,"Percent of teachers responding positively to 'To what extent are teachers trusted to teach in the way they think is best?'",School Climate,Experiences
+,"Percent of teachers responding positively to 'How positive are the attitudes of your colleagues?'",School Climate,Experiences
+,"Percent of teachers responding positively to 'How respectful are the relationships between teachers and students?'",School Climate,Experiences
+,"Percent of teachers responding positively to 'How often do you see students helping each other without being prompted?'",School Climate,Experiences
+,"Percent of teachers responding positively to 'Overall, how positive is the working environment at your school?'",School Climate,Experiences
+,"Percent of family members responding positively to 'How motivating are the classroom lessons at your child's school?'",School Climate,Experiences
+,"Percent of family members responding positively to 'How fair or unfair is the school's system of evaluating children?'",School Climate,Experiences
+,"Percent of family members responding positively to 'How much does the school value the diversity of children's backgrounds?'",School Climate,Experiences
+,"Percent of family members responding positively to 'How well do administrators at your child's school create a school environment that helps children learn?'",School Climate,Experiences
+,"Percent of family members responding positively to 'Overall, how much respect do you think the children at your child's school have for the staff?'",School Climate,Experiences
+,"Percent of family members responding positively to 'Overall, how much respect do you think the teachers at your child's school have for the children?'",School Climate,Experiences
+,Percent of students suspended in-school for any of the non-disaffection infractions,School Climate,Experiences
+,Percent of students suspended out-of-school for any of the non-disaffection infractions,School Climate,Experiences
+,Percent of students suspended in-school X or more days cumulatively for any non-disaffection infraction,School Climate,Experiences
+,Percent of students suspended out-of-school X or more days cumulatively for any non-disaffection infraction,School Climate,Experiences
+,Median number of days students are suspended in-school for any infraction,School Climate,Experiences
+,Median number of days students are suspended out-of-school for any infraction,School Climate,Experiences
+All Courses,Rate of all courses per 100 students,Curricular Breadth,Experiences
+Arts,Rate of arts courses per 100 students,Curricular Breadth,Experiences
+Civics,Rate of civics courses per 100 students,Curricular Breadth,Experiences
+Financial Literacy,Rate of financial literacy courses per 100 students,Curricular Breadth,Experiences
+Physical Education & Health,Rate of physical education & health courses per 100 students,Curricular Breadth,Experiences
+Social Sicences,Rate of social sciences courses per 100 students,Curricular Breadth,Experiences
+Sciences,Rate of science courses per 100 students,Curricular Breadth,Experiences
+Technology/CS4RI,Rate of technology/CS4RI courses per 100 students,Curricular Breadth,Experiences
+World Languages,Rate of world languages per 100 students,Curricular Breadth,Experiences
+Interested in Classes,"Percent of students responding positively to 'Overall, how interested are you in your classes?'",Curricular Breadth,Experiences
+ILP Milestone,Percent of students who completed the relevant ILP academic/instructional milestones by grade level configuration,High Quality Academic Supports,Experiences
+ILP ,"Percent of students responding positively to 'Do you have an ILP?'",High Quality Academic Supports,Experiences
+ILP Useful,"Percent of students responding positively to 'Do you find your ILP useful?'",High Quality Academic Supports,Experiences
+UCOA Academic Supports,Per pupil expenditure on academic supports,High Quality Academic Supports,Experiences
+,Instructional funding per pupil,Funding per Pupil,Resources
+,Tax capacity vs. effort,Funding per Pupil,Resources
+,Percent change in local contribution to instructional funding,Funding per Pupil,Resources
+,...Additional measures TBD,Funding per Pupil,Resources
+,Overall FTE to student ratio,Staffing per Pupil,Resources
+,Teacher to student ratio,Staffing per Pupil,Resources
+,Counselor to student ratio,Staffing per Pupil,Resources
+,"Psychologist, social worker, and therapists to student ratio",Staffing per Pupil,Resources
+,Special education specialist to student ratio,Staffing per Pupil,Resources
+,ESL endorsed teacher or specialist to student ratio,Staffing per Pupil,Resources
+,Reading specialists to student ratio,Staffing per Pupil,Resources
+,"Administrator (e.g. principal, vice principal) to student ratio",Staffing per Pupil,Resources
+,Arts and music specialists and  teachers to student ratio,Staffing per Pupil,Resources
+,Librarians and media specialists to student ratio,Staffing per Pupil,Resources
+,Nurse to student ratio,Staffing per Pupil,Resources
+,Athletic coaches to student ratio,Staffing per Pupil,Resources
+,Percent of chronically absent teachers,Staffing per Pupil,Resources
+,Percent of inexperience administrators,Staffing per Pupil,Resources
+,Percent of inexperienced teachers,Staffing per Pupil,Resources
+,Percent of teachers using emergency or preliminary certificate,Staffing per Pupil,Resources
+,Percent of teachers working out of field,Staffing per Pupil,Resources
+,...Additional measures TBD,Teaching Efficacy & Professional Development,Resources
+,...Additional measures TBD,Teaching Efficacy & Professional Development,Resources
+,...Additional measures TBD,Teaching Efficacy & Professional Development,Resources
+,Advanced math course enrollment rate,Participation in Advanced Coursework,Outcomes
+,Advanced science course enrollment rate,Participation in Advanced Coursework,Outcomes
+,AP course enrollment rate,Participation in Advanced Coursework,Outcomes
+,IB program enrollment rate,Participation in Advanced Coursework,Outcomes
+,CTE program enrollment rate,Participation in Advanced Coursework,Outcomes
+,Retention,College & Career Readinesss,Outcomes
+,Assessment,College & Career Readinesss,Outcomes
+,SAT,College & Career Readinesss,Outcomes
+,ACN,College & Career Readinesss,Outcomes
+,Dual & Concurrent,College & Career Readinesss,Outcomes
+,CTE,College & Career Readinesss,Outcomes
+,RJRI,College & Career Readinesss,Outcomes
+,"Percent of students responding positively to 'How often do you talk about college in class?'",College & Career Readinesss,Outcomes
+,"Percent of students responding positively to 'How often do you talk about jobs and careers in class?'",College & Career Readinesss,Outcomes

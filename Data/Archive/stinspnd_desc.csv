@@ -1,0 +1,9 @@
+Measure,Description,metric
+FRPL,Percent of student population receiving free or reduced price lunch.,FRPL
+ELL,Percent of student population who are English Language Learners.,ELL
+IEP,Percent of student population with an Individualized Education Plan.,IEP
+Schools 2plus,Percent of students who attended 2 or more schools within school year.,Schools\n2plus
+Math Proficiency,Percent of students proficient on previous year's math tests.,Math\nProficiency
+ELA Proficiency,Percent of students proficient on previous year's ELA tests.,ELA\nProficiency
+Retention,Percent of students who have been previously retained (starting in 1st grade).,Retention
+Mobility Rate,School mobility rate (calculated as defined by RIDE).,Mobility\nRate

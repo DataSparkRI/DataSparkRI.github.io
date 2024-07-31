@@ -1,0 +1,21 @@
+Measure,Description,metric
+Economic Status,Mean percent of population under income to poverty ratio of 1.0.,"Economic\nStatus"
+Employment,Mean percent of population unemployed.,"Employment"
+Computer Access,Mean percent of households with access to computing device (other than smart phone).,"Computer\nAccess"
+Vehicle Access,Mean percent of 3-or-more person households with no vehicle available.,"Vehicle\nAccess"
+Educational Attainment,Mean percent of population 25 years and over with Bachelor's degree or higher.,"Educational\nAttainment"
+Internet Access,Mean percent of households with internet subscription.,"Internet\nAccess"
+Tree Canopy Coverage,Mean percent of tree canopy coverage.,"Tree\nCanopy\nCoverage"
+Pre-K Enrollment,Mean percent of population 3 and 4 years old that attend pre-K.,"Pre-K\nEnrollment"
+Single Parent Households,Mean percent of households that are single parent households.,"Single\nParent\nHouseholds"
+Food Access,Percent of school's students with limited food access based on distance and population density.,"Food\nAccess"
+
+
+
+
+
+
+
+
+
+

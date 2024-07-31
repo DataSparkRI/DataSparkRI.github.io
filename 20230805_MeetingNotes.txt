@@ -1,0 +1,19 @@
+-Add description of directionality to tooltip
+-Add text to state that higher number means:
+	SISN - less instructional support needs (relative to rest of state)
+	CommEnvHlth - 
+	Engagement - 
+
+Absence => Attendance
+Chronic Absence => Chronic Absence
+Disaffection Suspensions => Attendance Suspensions
+Stress Interference => Effects of Stress
+
+ELL => Multilingual Learners
+FRPL => Low Income Families
+IEP => Students with Disabilities
+Retention => Matriculation
+Schools 2plus => Student Mobility
+Mobility => School Mobility
+
+Single Parent Households => Household Structure

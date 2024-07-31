@@ -1,0 +1,14 @@
+Measure,Description,metric
+Partial Attendance,Average partial attendance rate.,Partial\nAttendance
+Absence,Average absence rate.,Absence
+Chronic Absence,Proportion of students chronically absent.,Chronic\nAbsence
+Disaffection Suspensions,Percentage of students suspended for a disaffection infraction.,Disaffection\nSuspensions
+Attendance Importance,Mean response to SW question- "How much do you think missing at least 2 days of school a month can hurt your grades?",Attendance\nImportance
+School Belonging,Mean response to SW question- "Overall, how much do you feel like you belong at your school?",School\nBelonging
+Staying Calm,Mean response to SW question- "How often do you remain calm, even if someone is bothering you or saying something bad?",Staying\nCalm
+Adult Connection,Mean response to SW question- "How connected do you feel to the adults at your school?",Adult\nConnection
+Teacher Caring,Mean response to SW question- "When your teachers ask, 'How are you?', how often do you feel that your teachers really want to know your answer?",Teacher\nCaring
+Class Preparation,Mean response to SW question- "How often do you come prepared to class?",Class\nPreparation
+Stress Interference,Mean response to SW question- "How much has stress interfered with your ability to participate in school in the last 30 days?",Stress\nInterference
+Teacher to Talk to,Percent positive responses to SW question- "Is there at least one teacher or other adult that you can talk to if you have a problem?",Teacher\nto Talk to
+Adult to Talk to,Percent positive response to SW question- "Is there an adult you can talk to outside of school when you have a problem?",Adult\nto Talk to

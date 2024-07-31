@@ -1,0 +1,112 @@
+Measure,MeasureShort,Indicator,Description,metric,Index
+Economic Status,Poverty_agg,commenvhlth,Based on mean percent of population under income to poverty ratio of 1.0.,"Economic\nStatus",Conditions
+Employment,Unemployed_agg,commenvhlth,Based on mean percent of population unemployed.,"Employment",Conditions
+Computer Access,Comp_agg,commenvhlth,Based on mean percent of households with access to computing device (other than smart phone).,"Computer\nAccess",Conditions
+Vehicle Access,ZerVhcl_agg,commenvhlth,Based on mean percent of 3-or-more person households with no vehicle available.,"Vehicle\nAccess",Conditions
+Educational Attainment,BchDg25_agg,commenvhlth,Based on mean percent of population 25 years and over with Bachelor's degree or higher.,"Educational\nAttainment",Conditions
+Internet Access,Internt_agg,commenvhlth,Based on mean percent of households with internet subscription.,"Internet\nAccess",Conditions
+Tree Canopy Coverage,adj_tree_agg,commenvhlth,Based on mean percent of tree canopy coverage.,"Tree\nCanopy\nCoverage",Conditions
+Pre-K Enrollment,preK_agg,commenvhlth,Based on mean percent of population 3 and 4 years old that attend pre-K.,"Pre-K\nEnrollment",Conditions
+Single Parent Households,sngl_prnt_agg,commenvhlth,Based on mean percent of households that are single parent households.,"Single\nParent\nHouseholds",Conditions
+Food Access,lim_food_agg,commenvhlth,Based on percent of school's students with limited food access based on distance and population density.,"Food\nAccess",Conditions
+Low Partial Attendance,rate_prt,engage,Based on average partial attendance rate.,"Low\nPartial\nAttendance",Opportunities
+Low Absence Rate,rate_abs,engage,Based on average absence rate.,Low\nAbsence\nRate,Opportunities
+Low Chronic Absence,rate_chronabs,engage,Based on proportion of students chronically absent.,"Low\nChronic\nAbsence",Opportunities
+Fewer Disaffection Suspensions,rate_disaff,engage,Based on percentage of students suspended for a disaffection infraction.,"Fewer\nDisaffection\nSuspensions",Opportunities
+Attendance Importance,s_attend,engage,Based on percent of students responding positively to '"How much do you think missing at least 2 days of school a month can hurt your grades?"',"Attendance\nImportance",Opportunities
+School Belonging,s_belong,engage,Based on percent of students responding positively to '"Overall, how much do you feel like you belong at your school?"',School\nBelonging,Opportunities
+Staying Calm,s_calm,engage,Based on percent of students responding positively to '"How often do you remain calm, even if someone is bothering you or saying something bad?"',Staying\nCalm,Opportunities
+Adult Connection,s_connect,engage,Based on percent of students responding positively to '"How connected do you feel to the adults at your school?"',Adult\nConnection,Opportunities
+Teacher Caring,s_hyd,engage,Based on percent of students responding positively to '"When your teachers ask, 'How are you?', how often do you feel that your teachers really want to know your answer?"',Teacher\nCaring,Opportunities
+Class Preparation,s_prepared,engage,Based on percent of students responding positively to '"How often do you come prepared to class?"',Class\nPreparation,Opportunities
+Less Stress,s_stress,engage,Based on percent of students responding positively to '"How much has stress interfered with your ability to participate in school in the last 30 days?"',Less\nStress,Opportunities
+Teacher to Talk to,s_teach,engage,Based on percent positive response to '"Is there at least one teacher or other adult that you can talk to if you have a problem?"',Teacher\nto Talk to,Opportunities
+Adult to Talk to,s_adult,engage,Based on percent positive response to '"Is there an adult you can talk to outside of school when you have a problem?"',Adult\nto Talk to,Opportunities
+Low Economic Disadvantage,pct_FRPL,stinspnd,Based on percent of student population receiving free or reduced price lunch.,Low Economic\nDisadvantage,Conditions
+Low Multilingual Service Needs,pct_ELL,stinspnd,Based on percent of student population who are English Language Learners.,Low Multilingual\nService Needs,Conditions
+Low Differently Abled Service Needs,pct_IEP,stinspnd,Based on percent of student population with an Individualized Education Plan.,Low Differently\nAbled Service\nNeeds,Conditions
+Low Multiple School Attendance,pct_schools2plus,stinspnd,Based on percent of students who attended 2 or more schools within school year.,Low Multiple\nSchool\nAttendance,Conditions
+Math Proficiency,pct_prof_mth,stinspnd,Based on percent of students proficient on previous year's math tests.,Previous\nMath\nProficiency,Conditions
+ELA Proficiency,pct_prof_ela,stinspnd,Based on percent of students proficient on previous year's ELA tests.,Previous\nELA\nProficiency,Conditions
+Low Grade Retention,pct_everretained,stinspnd,Based on percent of students who have been previously retained (starting in 1st grade).,Low Grade\nRetention,Conditions
+Low Mobility Rate,mobRate,stinspnd,Based on school mobility rate (calculated as defined by RIDE).,Low Mobility\nRate,Conditions
+Overall,cb_overall,currbrdth,Based on rate of all courses per 100 students,Overall,Opportunities
+Arts,cb_arts,currbrdth,Based on rate of arts courses per 100 students,Arts,Opportunities
+Civics,cb_civics,currbrdth,Based on rate of civics courses per 100 students,Civics,Opportunities
+Financial Litearcy,cb_fin_lit,currbrdth,Based on rate of financial literacy courses per 100 students,Financial\nLiteracy,Opportunities
+Phys Ed and Health,cb_physed_hlth,currbrdth,Based on rate of physical education & health courses per 100 students,Phys Ed\nand Health,Opportunities
+Social Sciences,cb_social_sci,currbrdth,Based on rate of social sciences courses per 100 students,Social\nSciences,Opportunities
+Sciences,cb_sciences,currbrdth,Based on rate of science courses per 100 students,Sciences,Opportunities
+Technology and CS4RI,cb_tech_cs4ri,currbrdth,Based on rate of technology/CS4RI courses per 100 students,Technology\nand CS4RI,Opportunities
+World Languages,cb_world_lang,currbrdth,Based on rate of world languages per 100 students,World\nLanguages,Opportunities
+Class Interest,class_interest_pct_pos,currbrdth,Based on percent of students responding positively to '"Overall, how interested are you in your classes?"',Class\nInterest,Opportunities
+Subject Interest,class_things_interest_pct_pos,currbrdth,Based on percent of students responding positively to '"How interesting do you find the things you learn in your classes?"',Subject\nInterest,Opportunities
+Student- School Energy,sch_pf_s_energy_total,climate,Based on percent of students responding positively to '"How positive or negative is the energy of the school?"',Student-\nSchool\nEnergy,Opportunities
+Student- Pleasant Space,sch_pf_s_pleasant_total,climate,Based on percent of students responding positively to '"How pleasant or unpleasent is the physical space at your school?"',Student-\nPleasant\nSpace,Opportunities
+Student- Fair Rules,sch_pf_s_fair_total,climate,Based on percent of students responding positively to '"How fair or unfair are the rules for the students at this school?"',Student-\nFair\nRules,Opportunities
+Student- Student Behavior,sch_pf_s_behave_total,climate,Based on percent of students responding positively to '"At your school, how much does the behavior of other students hurt or help your learning?"',Student-\nPeer\nBehavior,Opportunities
+Student- Excited Teachers,sch_pf_s_t_excite_total,climate,Based on percent of students responding positively to '"How often do your teachers seem excited to be teaching your classes?"',Student-\nExcited\nTeachers,Opportunities
+Teacher- Enthusiastic Students,sch_pf_t_enthus_total,climate,Based on percent of teachers responding positively to '"On most days, how enthusiastic are the students about being at school?"',Teacher-\nEnthusiastic\nStudents,Opportunities
+Teacher- Supportive Colleagues,sch_pf_t_init_total,climate,Based on percent of teachers responding positively to '"When new initiatives to improve teaching are presented at your school, how supportive are your colleagues?"',Teacher-\nSupportive\nColleagues,Opportunities
+Teacher- School Improvement,sch_pf_t_opt_total,climate,Based on percent of teachers responding positively to '"How optimistic are you that your school will improve in the future?"',Teacher-\nSchool\nImprovement,Opportunities
+Teacher- Supportive Students,sch_pf_t_support_total,climate,Based on percent of teachers responding positively to '"How supportive are students in their interactions with each other?"',Teacher-\nSupportive\nStudents,Opportunities
+Teacher- Feeling Trusted,sch_pf_t_trust_total,climate,Based on percent of teachers responding positively to '"To what extent are teachers trusted to teach in the way they think is best?"',Teacher-\nFeeling\nTrusted,Opportunities
+Teacher- Colleague Attitude,sch_pf_t_pos_att_total,climate,Based on percent of teachers responding positively to '"How positive are the attitudes of your colleagues?"',Teacher-\nColleague\nAttitude,Opportunities
+Teacher- Respectful Relationships,sch_pf_t_respect_total,climate,Based on percent of teachers responding positively to '"How respectful are the relationships between teachers and students?"',Teacher-\nRespectful\nRelationships,Opportunities
+Teacher-Student Collaboration,sch_pf_t_help_total,climate,Based on percent of teachers responding positively to '"How often do you see students helping each other without being prompted?"',Teacher-\nStudent\nCollaboration,Opportunities
+Teacher- Positive Environment,sch_pf_t_enviro_total,climate,Based on percent of teachers responding positively to '"Overall, how positive is the working environment at your school?"',Teacher-\nPositive\nEnvironment,Opportunities
+Suspensions for Violent Infraction,pct_vlnt_infraction,climate,Based on percent of students suspended for violent infractions,Suspensions\nfor Violent\nInfractions,Opportunities
+Suspensions for Non-Violent Infraction Suspensions,pct_nonvlnt_infraction,climate,Based on percent of students suspended for non-violent infractions,Suspensions\nfor Non-Violent\nInfractions,Opportunities
+Help Challenging Students,t_help_challenge_stds_pct_pos,tchefficacy,Based on percent of teachers responding positively to '"How confident are you that you can help your school's most challenging students to learn?"',Help\nChallenging\nStudents,Resources
+Meet Needs of Advanced Students,t_meet_needs_ad_stds_pct_pos,tchefficacy,Based on percent of teachers responding positively to '"How confident are you that you can meet the learning needs of your most advanced students?"',Meet Needs\nof Advanced\nStudents,Resources
+Materials,t_material_pct_pos,tchefficacy,Based on percent of teachers responding positively to '"How confident are you that you can move through material at a pace that works well for each of your students?"',Materials,Resources
+Manage Disruptive Class,t_mng_disrupt_cls_pct_pos,tchefficacy,Based on percent of teachers responding positively to '"How effective do you think you are at managing particularly disruptive classes?"',Manage\nDisruptive\nClass,Resources
+Thorough Knowledge of Content,t_content_pct_pos,tchefficacy,Based on percent of teachers responding positively to '"How thoroughly do you feel that you know all the content you need to teach?"',Thorough\nKnowledge\nof Content,Resources
+Teaching Strategies,t_tch_strategy_pct_pos,tchefficacy,Based on percent of teachers responding positively to '"When one of your teaching strategies fails to work for a group of students, how easily can you think of another approach to try?"',Teaching\nStrategies,Resources
+Unique Learning Needs,st_resources_pct_pos,tchefficacy,Based on percent of teachers and support staff responding positively to '"How knowledgeable are you regarding where to find resources for working with students who have unique learning needs?"',Unique\nLearning\nNeeds,Resources
+Effective Communication,st_eff_comm_pct_pos,leadership,Based on percent of teachers and support staff responding positively to '"How effectively do school leaders communicate important information to teachers?"' & '"How effectively do school leaders communicate important information to staff?"'"," respectively.,Effective\nCommunication,Resources
+Knowledge of School,st_classroom_sch_knwl_pct_pos,leadership,Based on percent of teachers and support staff responding positively to '"How knowledgeable are your school leaders about what is going on in teachers' classrooms?"' & '"How knowledgeable are your school leaders about what is going on in the school?,"' respectively.,Knowledge\nof School,Resources
+Positive Tone,st_pos_culture_pct_pos,leadership,Based on percent of teachers and support staff responding positively to '"How positive is the tone that school leaders set for the culture of the school?"' & '"How positive is the tone that school leaders set for the culture of the school?"'"," respectively.,Positive\nTone,Resources
+Responsive to Feedback,st_respond_feedback_pct_pos,leadership,Based on percent of teachers and support staff responding positively to '"How responsive are school leaders to your feedback?"',Responsive\nto Feedback,Resources
+Positive Influence,st_infl_teach_work_quality_pct_pos,leadership,Based on percent of teachers and support staff responding positively to '"Overall, how positive is the influence of the school leaders on the quality of your teaching?"' & '"Overall, how positive is the influence of the school leaders on the quality of your work?"'"," respectively. ,Positive\nInfluence,Resources
+Important Decision,st_impt_decis_pct_pos,leadership,Based on percent of teachers and support staff responding positively to '"When the school makes important decisions, how much input do teachers have?"' & '"When the school makes important decisions, how much input do staff have?"'"," respectively.,Important\nDecision,Resources
+Discussion of Evaluation Scores,st_discuss_eval_score_pct_pos,proflearn,Based on percent of teachers and supporting staff responding positively to '"How often do you discuss evaluation scores?"',Discussion of\nEvaluation\nScores,Resources
+Lesson Rehearsal,t_freq_rehearsal_pct_pos,proflearn,Based on percent of teachers responding positively to '"How often do you engage in lesson study or lesson rehearsal groups?"',Lesson\nRehearsal,Resources
+Meet with Instructional Coach,t_freq_instr_coach_pct_pos,proflearn,Based on percent of teachers responding positively to '"How often do you meet with an instructional coach?"',Meet with\nInstructional\nCoach,Resources
+Review Assessment,st_freq_assess_pct_pos,proflearn,Based on percent of teachers and supporting staff responding positively to '"How often do you review student assessment data to make instructional decisions?"' & '"How often do you review student assessment data to make instructional or service delivery decisions?"'"," respectively.,Review\nAssessment,Resources
+Professional Development Opportunity,st_value_profdev_pct_pos,proflearn,Based on percent of teachers and supporting staff responding positively to '"At your school, how valuable are the available professional development opportunities?"',Professional\nDevelopment\nOpportunity,Resources
+Colleagues' Ideas,st_help_colleague_pct_pos,proflearn,Based on percent of teachers and supporting staff responding positively to '"How helpful are your colleagues' ideas for improving your work?"',Colleagues'\nIdeas,Resources
+Exploration of New Ideas,st_profdev_newideas_pct_pos,proflearn,Based on percent of teachers and supporting staff responding positively to '"How often do your professional development opportunities help you explore new ideas?"',Exploration\nof New\nIdeas,Resources
+Relevance of Professional Development,st_relv_profdev_pct_pos,proflearn,Based on percent of teachers and supporting staff responding positively to '"How relevant have your professional development opportunities been to the content that you teach?"' & '"How relevant have your professional development opportunities been to your work?"'"," respectively.,Relevance of\nProfessional\nDevelopment,Resources
+Learn from Leaders,st_ldr_learn_pct_pos,proflearn,Based on percent of teachers and supporting staff responding positively to '"Overall, how much do you learn from the leaders at your school?"',Learn\nfrom\nLeaders,Resources
+Support Growth,st_spt_gwth_pct_pos,proflearn,Based on percent of teachers and supporting staff responding positively to '"Overall, how supportive has the school been of your growth as a teacher?"' & '"Overall, how supportive has the school been of your professional growth?"'"," respectively.,Support\nGrowth,Resources
+Fewer Inexperienced Teachers,PercInexp_TC,proflearn,Based on percent of inexperienced teachers.,Fewer\nInexperienced\nTeachers,Resources
+Fewer Emergency Certificates,PercEmerPrelim_TC,proflearn,Based on percent of teachers using emergency or preliminary certificate.,Fewer\nEmergency\nCertificates,Resources
+Fewer Out-of-Field Teachers,PercOutofField_TC,proflearn,Based on percent of teachers working out of field.,Fewer\nOut-of-Field\nTeachers,Resources
+Total FTEs per Pupil,FTE_per_pupil,fteperpupil,Based on rate of overall FTEs per pupil.,Total FTEs\nper Pupil,Resources
+Teachers per Pupil,teacher_per_pupil,fteperpupil,Based on rate of teachers per pupil.,Teachers\nper Pupil,Resources
+Counselors per Pupil,counsel_per_pupil,fteperpupil,Based on rate of counselors per pupil.,Counselors\nper Pupil,Resources
+Health Professionals per Pupil,nrpsysw_per_pupil,fteperpupil,"Based on rate of nures, psychologists, social workers, and therapists per pupil.",Health\nProfessionals\nper Pupil,Resources
+Special Ed Specialists per IEP Student,sped_per_pupil,fteperpupil,Based on rate of special education specialists per IEP student.,Special Ed\nSpecialists\nper IEP\nStudent,Resources
+ESL Teachers per MLL Student,ESL_per_pupil,fteperpupil,Based on rate of ESL endorsed teachers per ELL student.,ESL Teachers\nper MLL Student,Resources
+Admins per Pupil,admin_per_pupil,fteperpupil,Based on rate of school administrators per pupil.,Admins\nper Pupil,Resources
+Arts and Music Specialists per Pupil,artmus_per_pupil,fteperpupil,Based on rate of arts and music specialists per pupil.,Arts and Music\nSpecialists\nper Pupil,Resources
+Other Specialists,libreadspec_per_pupil,fteperpupil,"Based on rate of librarians and media specialists per pupil.",Other\nSpecialists\nper Pupil,Resources
+Low Teacher Chronic Absence,CA_Percent,fteperpupil,Based on percent of chronically absent teachers.,Low Teacher\nChronic Absence,Resources
+AP Participation,APcoursetaken_rate,collegecareer,Based on percent of students participating in AP courses (based on SCED codes and course titles).,AP Participation,Outcomes
+AP Exams,AP_pass_rate,collegecareer,Based on percent of students passing AP exams (out of the number of students in the school).,AP Exams,Outcomes
+CTE Participation,CTEcoursetaken_rate,collegecareer,Based on percent of students participating in CTE courses (based on CTE collection).,CTE Participation,Outcomes
+Two-Year Postsecondary Enrollment,X2Year_pse,collegecareer,Based on percent of graduating class who enroll in two-year postsecondary education institution within one academic year of graduating high school.,Two-Year\nPostsecondary\nEnrollment,Outcomes
+Four-Year Postsecondary Enrollment,X4Year_pse,collegecareer,Based on percent of graduating class who enroll in four-year postsecondary education institution within one academic year of graduating high school.,Four-Year\nPostsecondary\nEnrollment,Outcomes
+Postsecondary Persistence,PSretained_rate,collegecareer,Based on percent of freshman postsecondary cohort who is retained/remains enrolled after one year.,Postsecondary\nPersistence,Outcomes
+College Discussions,Talk_college_pct_pos,collegecareer,Based on percent of students responding positively to '"How often do you talk about college in class?"',College\nDiscussions,Outcomes
+Career Discussions,Talk_job_career_pct_pos,collegecareer,Based on percent of students responding positively to '"How often do you talk about jobs and careers in class?"',Career\nDiscussions,Outcomes
+Curriculum Development Spending,currDev_perpupil,perpplspend,Based on per pupil spending on curriculum development,Curriculum\nDevelopment\nSpending,Resources
+Professional Development Spending,profDev_perpupil,perpplspend,Based on per pupil spending on professional development,Professional\nDevelopment\nSpending,Resources
+Co/Extracurricular Activities Spending,coExtraCurr_perpupil,perpplspend,Based on per pupil spending on co-curricular and extracurricular activities,Co/Extracurricular\nActivities\nSpending,Resources
+Pupil Use Technology Spending,pupilUseTech_perpupil,perpplspend,Based on per pupil spending on pupil-use technology,Pupil Use\nTechnology\nSpending,Resources
+Transportation Spending,transport_perpupil,perpplspend,Based on per pupil spending on transportation,Transportation\nSpending,Resources
+Special Education Spending,specialEd_perpupil,perpplspend,Based on per IEP pupil spending on special education,Special\nEducation\nSpending,Resources
+Bilingual Education Spending,bilingualEd_perpupil,perpplspend,Based on per MLL pupil spending on bilingual education,Bilingual\nEducation\nSpending,Resources
+Supplies Spending,supplies_perpupil,perpplspend,Based on per pupil spending on supplies,Supplies\nSpending,Resources
+Maintenance Spending,maintenance_perpupil,perpplspend,Based on per pupil spending on maintenance,Maintenance\nSpending,Resources

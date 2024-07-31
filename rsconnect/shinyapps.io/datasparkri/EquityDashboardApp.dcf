@@ -1,0 +1,16 @@
+name: EquityDashboardApp
+title: EquityDashboardApp
+username: datasparkri
+account: datasparkri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9523913
+<<<<<<< HEAD
+bundleId: 8651692
+=======
+bundleId: 8541902
+>>>>>>> 4f4ad0fbaac3b16911a2ed05b61981db43f7aaeb
+url: https://datasparkri.shinyapps.io/EquityDashboardApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
